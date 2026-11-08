@@ -208,4 +208,4 @@ This repository serves as the official landing page for Ethereal. The software i
 This README is tailored specifically for Ethereal, incorporating all required elements while ensuring compliance with GitHub policies and promoting effective conversion.
 
 ---
-**Last updated:** 2026-11-07 22:28:10 UTC
+**Last updated:** 2026-11-08 01:58:48 UTC
